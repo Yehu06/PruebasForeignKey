@@ -1,4 +1,4 @@
---Useroms la bd de potencia digital pero le vamos a poner estas dos nuevas tablas
+--Useremos la bd de potencia digital pero le vamos a poner estas dos nuevas tablas
 
 
 
@@ -27,3 +27,4 @@ CREATE TABLE colegios_actividades (
   
 
 );
+
