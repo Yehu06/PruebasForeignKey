@@ -1,3 +1,7 @@
+--Useroms la bd de potencia digital pero le vamos a poner estas dos nuevas tablas
+
+
+
 USE Potencial_Digital_SQL2;
 
 
@@ -21,4 +25,5 @@ CREATE TABLE colegios_actividades (
 
  
   
+
 );
