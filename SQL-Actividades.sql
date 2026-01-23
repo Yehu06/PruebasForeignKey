@@ -8,8 +8,8 @@ USE Potencial_Digital_SQL2;
 CREATE TABLE colegios (
     idColegio smallint primary key NOT NULL,
     nombre varchar(100) NOT NULL,
-    persona_contacto varchar(100) NOT NULL,
-    tfno_contacto varchar(20) NOT NULL,
+    persona_contacto varchar(100) NOT NULL DEFAULT 'no procede',
+    tfno_contacto varchar(20) NOT NULL DEFAULT 'no procede',
     
 );
 
